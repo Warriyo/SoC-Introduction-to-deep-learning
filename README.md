@@ -1,1 +1,4 @@
 # SoC-Introduction-to-deep-learning
+### Week-1:- Learning basic python and using libraries like numpy, pillow and matplotlib, using their functions, processing images and creating graphs. 
+### Week-2:- Learning the basics of deep learning, logistic regression and it's uses. Learning the basic structure of a neural network, forward propagation, and backward propagation using gradient descent. Applying this to make a basic logistic regression model which uses dataset containing various relevant medical information to detect heart disease in patients. Using softmax(sigmoid) function for binary classification. 
+### Week-3:- Built a complete2-class classification neural network with a hidden layer, compute cross entropy loss, vary hidden layer size and see it's impact(overfitting). Used logistic regression to classify images.
